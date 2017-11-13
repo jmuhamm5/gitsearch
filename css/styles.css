@@ -1,0 +1,13 @@
+.avatar{
+  width:100%
+}
+.follower {
+  width: 25%;
+}
+.col-md-2 {
+  margin-bottom: 40px;
+}
+nav {
+  margin-right: -5px;
+  margin-left: -5px;
+}
